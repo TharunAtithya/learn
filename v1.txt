@@ -1,3 +1,1 @@
-edited this file after adding the file to staging area ... the remote repo should have the content in this file as (new file)
-
-
+added this content from notepad
