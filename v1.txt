@@ -1,1 +1,1 @@
-this content added before moving the file to staging area and this file is never commited before
+new file
